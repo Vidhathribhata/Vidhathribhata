@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vidhathri</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidhathribhata" alt="vidhathribhata" /></a> </p>
+ 🔭 I’m an ISE student at AJIET
 
-- 🌱 I’m currently learning **frontend development**
+🌱 I’m currently learning **frontend development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
